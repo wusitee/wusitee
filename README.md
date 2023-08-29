@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wusitee
 - 👀 I’m interested in oi
 - 🌱 I’m currently learning basic algorithm
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me kekdkkwk@outlook.com
 
 <!---

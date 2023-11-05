@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 Here are some useful things :
 
-- oi syllabus
+- My neovim setting file.
 
-- my .vscode file for C++
+- My .vscode file for C++.

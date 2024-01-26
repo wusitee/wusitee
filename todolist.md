@@ -4,3 +4,4 @@
 - [ ] Advance Lab presentation 30/01/2024  
 - [ ] application about summer school in HKU  
 - [ ] 买个牙膏 2024-01-28 
+- [ ] USACO Second Constest 2024-01-26 

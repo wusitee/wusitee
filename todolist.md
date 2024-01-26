@@ -2,4 +2,5 @@
 - [ ] Toefl 27/01/2024  
 - [ ] Econ presentation 2024-01-23  
 - [ ] Advance Lab presentation 30/01/2024  
-- [ ] application about summer school in HKU
+- [ ] application about summer school in HKU  
+- [ ] 买个牙膏 2024-01-28 

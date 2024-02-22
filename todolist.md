@@ -1,7 +1,1 @@
-- [ ] Spanish HW finish the practice 2024-01-23  
-- [ ] Toefl 27/01/2024  
-- [ ] Econ presentation 2024-01-23  
-- [ ] Advance Lab presentation 30/01/2024  
-- [ ] application about summer school in HKU  
-- [ ] 买个牙膏 2024-01-28 
-- [ ] USACO Second Constest 2024-01-26 
+- [ ] Spanish HW finish the practice 2024-02-23

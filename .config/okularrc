@@ -1,0 +1,21 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=Extra Credit _ Love Affair of DOOM AP1.pdf,file:$HOME/Downloads/Extra Credit _ Love Affair of DOOM AP1.pdf
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+1765x1176 screen: Window-Maximized=true
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Extra Credit _ Love Affair of DOOM AP1.pdf
+File2[$e]=$HOME/Desktop/essay
+Name1[$e]=Extra Credit _ Love Affair of DOOM AP1.pdf
+Name2[$e]=essay

@@ -1,0 +1,17 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+text/html=firefox.desktop;
+x-scheme-handler/clash=clash-verge.desktop;
+x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailspring=Mailspring.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+text/html=firefox.desktop;
+x-scheme-handler/clash=clash-verge.desktop
+x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailspring=Mailspring.desktop

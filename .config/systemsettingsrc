@@ -1,0 +1,21 @@
+[MainWindow]
+1000x667 screen: Height=700
+1000x667 screen: Width=1020
+1000x667 screen: Window-Maximized=true
+1500x1000 screen: Height=700
+1500x1000 screen: Width=1020
+1500x1000 screen: Window-Maximized=true
+1536x864 screen: Height=700
+1536x864 screen: Width=1020
+1536x960 screen: Height=700
+1536x960 screen: Width=1020
+1765x1176 screen: Window-Maximized=true
+2 screens: Height=700
+2 screens: Width=1020
+2000x1333 screen: Window-Maximized=true
+2880x1620 screen: Window-Maximized=true
+3000x2000 screen: Window-Maximized=true
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABuUAAARQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,46 @@
+ls
+exit
+ls
+exit
+ls
+exit
+yay -S fcitx5-im
+yay -S fcitx5-chinese-addons
+yay -S fcitx50material-color
+yay -S fcitx5-material-color
+yay -S fcitx5-pinyin-zhwiki
+sudo -e /etc/environment
+reboot 
+sys
+sysctl 
+ls
+exit
+zoxide --init
+zoxide Pictures/
+zoxide --help
+zoxide --init
+zoxide -init
+zoxide --h
+zoxide --help
+zoxide init
+zoxide init nu
+zoxide init nushell
+z
+$nu
+nvim .config/nushell/config.nu
+nvim .config/nushell/env.nu
+z
+nvim .config/nushell/config.nu
+mkdir .config/alacritty
+cd .config/alacritty/
+ls
+exit
+ls
+exit
+help mv
+exit
+ls
+exit
+sys
+neofetch
+exit

@@ -1,0 +1,30 @@
+2024/01/17-19:20:15.859 1b4d Reusing MANIFEST /home/wste/.config/yesplaymusic/Local Storage/leveldb/MANIFEST-000001
+2024/01/17-19:20:15.860 1b4d Recovering log #3
+2024/01/17-19:20:15.860 1b4d Reusing old log /home/wste/.config/yesplaymusic/Local Storage/leveldb/000003.log 
+2024/01/17-19:23:16.379 1b5c Level-0 table #5: started
+2024/01/17-19:23:16.387 1b5c Level-0 table #5: 17532 bytes OK
+2024/01/17-19:23:16.394 1b5c Delete type=0 #3
+2024/01/17-19:36:16.381 1b5c Level-0 table #7: started
+2024/01/17-19:36:16.388 1b5c Level-0 table #7: 20100 bytes OK
+2024/01/17-19:36:16.396 1b5c Delete type=0 #4
+2024/01/17-19:50:16.380 24e9 Level-0 table #9: started
+2024/01/17-19:50:16.387 24e9 Level-0 table #9: 20238 bytes OK
+2024/01/17-19:50:16.394 24e9 Delete type=0 #6
+2024/01/17-20:23:35.652 2b77 Level-0 table #11: started
+2024/01/17-20:23:35.659 2b77 Level-0 table #11: 20248 bytes OK
+2024/01/17-20:23:35.666 2b77 Delete type=0 #8
+2024/01/17-20:40:35.652 2f8e Level-0 table #13: started
+2024/01/17-20:40:35.660 2f8e Level-0 table #13: 20301 bytes OK
+2024/01/17-20:40:35.667 2f8e Delete type=0 #10
+2024/01/17-20:54:35.652 3497 Level-0 table #15: started
+2024/01/17-20:54:35.660 3497 Level-0 table #15: 20330 bytes OK
+2024/01/17-20:54:35.668 3497 Delete type=0 #12
+2024/01/17-20:54:35.668 3497 Compacting 4@0 + 1@1 files
+2024/01/17-20:54:35.676 3497 Generated table #16@0: 4 keys, 5261 bytes
+2024/01/17-20:54:35.676 3497 Compacted 4@0 + 1@1 files => 5261 bytes
+2024/01/17-20:54:35.682 3497 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/17-20:54:35.683 3497 Delete type=2 #9
+2024/01/17-20:54:35.683 3497 Delete type=2 #11
+2024/01/17-20:54:35.683 3497 Delete type=2 #13
+2024/01/17-20:54:35.683 3497 Delete type=2 #15
+2024/01/17-20:54:35.683 3497 Delete type=2 #7
